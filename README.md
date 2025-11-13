@@ -41,7 +41,7 @@ I enjoy creating college management systems, automation tools, chat applications
 </a>
 
 <a href="https://github.com/Jigar-kar/ProgramSaver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jigar-kar&repo=ProgramSaver&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jigar-kar&repo=fine-track&theme=transparent&hide_border=true" />
 </a>
 
 </p>
