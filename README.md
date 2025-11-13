@@ -37,11 +37,11 @@ I love working on college management systems, automation, chat services, and sca
 <p align="center">
 
 <a href="https://github.com/jigarkar/College-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jigarkar&repo=College-App&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jigar-kar&repo=College-App&theme=transparent&hide_border=true" />
 </a>
 
 <a href="https://github.com/jigarkar/ProgramSaver">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jigarkar&repo=ProgramSaver&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jigar-kar&repo=ProgramSaver&theme=transparent&hide_border=true" />
 </a>
 
 </p>
