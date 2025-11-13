@@ -51,8 +51,8 @@ I love working on college management systems, automation, chat services, and sca
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jigarkar&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigarkar&layout=compact&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jigar-kar&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigar-kar&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
