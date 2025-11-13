@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Jigar Kar</strong></h1>
 
 <p align="center">
-  <img src="https://github.com/Jigar-kar/my-portfolio/blob/main/537e901e-c034-415f-81d4-b3b76a2219d6.png" />
+  <img src="https://github.com/Jigar-kar/BCA_COLLAGE/blob/main/ChatGPT%20Image%20Nov%2013%2C%202025%2C%2006_28_53%20PM.png" />
 </p>
 
 
