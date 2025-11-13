@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jigarkar&label=Profile+Views&color=1f6feb&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Jigar-kar&label=Profile+Views&color=1f6feb&style=flat-square" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 I am a passionate software developer with expertise in building modern, high-quality applications.  
 I specialize in **Flutter development**, combined with **Firebase**, **GitHub**, and clean architecture.  
-I love working on college management systems, automation, chat services, and scalable mobile applications.
+I enjoy creating college management systems, automation tools, chat applications, and scalable mobile apps.
 
 ---
 
@@ -36,11 +36,11 @@ I love working on college management systems, automation, chat services, and sca
 
 <p align="center">
 
-<a href="https://github.com/jigarkar/College-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jigar-kar&repo=College-App&theme=transparent&hide_border=true" />
+<a href="https://github.com/Jigar-kar/college-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jigar-kar&repo=college-app&theme=transparent&hide_border=true" />
 </a>
 
-<a href="https://github.com/jigarkar/ProgramSaver">
+<a href="https://github.com/Jigar-kar/ProgramSaver">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jigar-kar&repo=ProgramSaver&theme=transparent&hide_border=true" />
 </a>
 
@@ -62,9 +62,9 @@ I love working on college management systems, automation, chat services, and sca
 - Advanced Flutter architecture  
 - Clean UI + State management  
 - Firebase + Supabase integration  
-- Chat systems with Realtime DB  
-- Backend principles  
-- Writing scalable code  
+- Real-time chat systems  
+- Backend fundamentals  
+- Writing scalable & maintainable code  
 
 ---
 
@@ -85,5 +85,6 @@ I love working on college management systems, automation, chat services, and sca
 ---
 
 ### ✨ Additional Information  
-I enjoy building high-level software solutions that improve user experience and bring happiness to clients.  
-Always exploring new technologies and improving my development skills.
+I enjoy building high-level software that provides seamless user experiences and client satisfaction.  
+Continuously improving my skills and exploring new technologies.
+
