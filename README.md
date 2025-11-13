@@ -1,6 +1,11 @@
 <h1 align="center"><strong>Jigar Kar</strong></h1>
 
 <p align="center">
+  <img src="(https://github.com/Jigar-kar/BCA_COLLAGE/blob/main/ChatGPT%20Image%20Nov%2013%2C%202025%2C%2006_28_53%20PM.png)" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2000&pause=800&color=40CFFF&center=true&vCenter=true&width=520&lines=Software+Developer;Flutter+%7C+Firebase+%7C+GitHub;Building+High-Level+and+Modern+Apps;Constantly+Learning+%26+Improving" />
 </p>
 
