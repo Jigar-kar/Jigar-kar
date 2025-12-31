@@ -1,8 +1,7 @@
 <h1 align="center"><strong>Jigar Kar</strong></h1>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2000&pause=800&color=40CFFF&center=true&vCenter=true&width=520&lines=Software+Developer;Flutter+%7C+Firebase+%7C+GitHub;Building+High-Level+and+Modern+Apps;Constantly+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2000&pause=800&color=40CFFF&center=true&vCenter=true&width=520&lines=Software+Developer;Flutter+%7C+Firebase+%7C+GitHub;Building+Modern+and+Scalable+Apps;Always+Learning+%26+Improving" />
 </p>
 
 <p align="center">
@@ -11,17 +10,17 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I am a passionate software developer who loves building **modern**, **scalable**, and **real-world applications**.  
-I specialize in **Flutter + Firebase**, with experience in backend logic, GitHub automation, and clean app architecture.
+I am a **passionate software developer** focused on building **modern**, **scalable**, and **real-world applications**.  
+My core expertise lies in **Flutter and Firebase**, along with backend logic, GitHub-based workflows, and clean application architecture.
 
-💡 *My mission is simple:*  
-**Build software that solves problems and brings happiness to users.**
+💡 **Mission Statement**  
+To build software that solves real problems and delivers meaningful value to users.
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -35,7 +34,7 @@ I specialize in **Flutter + Firebase**, with experience in backend logic, GitHub
 
 ---
 
-# ⭐ Featured Projects
+## ⭐ Featured Projects
 
 <p align="center">
 
@@ -51,7 +50,7 @@ I specialize in **Flutter + Firebase**, with experience in backend logic, GitHub
 
 ---
 
-# 📊 GitHub Stats & Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jigar-kar&show_icons=true&theme=transparent&hide_border=true" />
@@ -60,7 +59,7 @@ I specialize in **Flutter + Firebase**, with experience in backend logic, GitHub
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jigar-kar&theme=onestar&no-frame=true&row=1&column=6" />
@@ -68,7 +67,7 @@ I specialize in **Flutter + Firebase**, with experience in backend logic, GitHub
 
 ---
 
-# 🔥 GitHub Activity Graph
+## 🔥 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jigar-kar&theme=react-dark&hide_border=true" />
@@ -76,18 +75,18 @@ I specialize in **Flutter + Firebase**, with experience in backend logic, GitHub
 
 ---
 
-# 🎯 Currently Learning
+## 🎯 Currently Learning
 
-- Advanced Flutter architecture  
+- Advanced Flutter architecture patterns  
 - State management (Provider, Bloc, Riverpod)  
-- Firebase + Supabase integration  
+- Firebase and Supabase integration  
 - Real-time chat systems  
 - Backend fundamentals  
-- Writing scalable & maintainable code  
+- Writing scalable and maintainable code  
 
 ---
 
-# 🧩 Fun Animated Section
+## 🧩 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jigar-kar&theme=transparent&hide_border=true" />
@@ -95,7 +94,7 @@ I specialize in **Flutter + Firebase**, with experience in backend logic, GitHub
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://yourwebsite.com">
@@ -105,15 +104,15 @@ I specialize in **Flutter + Firebase**, with experience in backend logic, GitHub
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
 ---
 
-# ✨ Additional Information
-I enjoy building intelligent, user-friendly software that solves real problems.  
-Always focused on **clean UI**, **better performance**, and **scalable architecture**.
+## ✨ Additional Information
+
+I enjoy building **user-friendly**, **high-performance**, and **scalable applications**.  
+Strong focus on **clean UI**, **efficient logic**, and **long-term maintainability**.
 
 ---
-
