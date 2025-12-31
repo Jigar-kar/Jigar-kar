@@ -41,10 +41,11 @@ Primary experience in **Flutter and Firebase**, with strong attention to archite
 
 ## GitHub
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Jigar-kar&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigar-kar&layout=compact&hide_border=true&theme=transparent" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jigar-kar&show_icons=true&hide_border=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigar-kar&layout=compact&hide_border=true&theme=transparent" height="150" />
+</div>
+
 
 ---
 
